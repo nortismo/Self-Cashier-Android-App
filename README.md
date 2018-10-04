@@ -1,2 +1,3 @@
-# Self-Cashier-Android-App
-A non-functional self-cashier-app for android as an exercise in a project. This app is not working properly and you will not be able to buy anything. The data is just mocked. 
+# Self-Cashier-Android-App-Examples
+This is just a repository for first samples in the android studio. The examples are developed regarding the Self-Cashier-Android-App, which is focusing on a school project and not for real use. The proper repository for the full app is https://github.com/MarcKloter/TSM_MobOp. 
+
